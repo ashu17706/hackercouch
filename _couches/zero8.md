@@ -2,12 +2,10 @@
 name: Ashutosh Tripathi
 city: Hyderabad
 country: IN
-region: Telangana
+region: Hafeezpet
 email: ashu17706@gmail.com
 github: ashu17706
 twitter: ashuthezero8
-website: http://ashutoshtripathi.me
-
 ---
 
 I have an extra bed available, Fast internet for sure.
